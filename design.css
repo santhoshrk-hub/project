@@ -1,0 +1,50 @@
+ul,li,h2,nav{
+    display: inline-block;
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border-radius: 7px;
+    
+}
+.one{
+    display: block;
+}
+h2{      
+    padding-left: 20px;
+}
+ul{
+    padding-left: 75%;
+    cursor: pointer;
+    
+}
+li:hover{
+    color: blue;
+}
+body{
+
+    background-image:url(bgimg1.avif);
+
+}
+.two{
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    color: black;
+    padding-top: 200px;
+    font-size: large;
+}
+.three{
+       text-align: center;
+       padding-top: 150px;
+       
+
+}
+.bat{
+    border-radius: 7px;
+}
+.bat:hover{
+    background: black;
+    color:white ;
+}
+
+
+
